@@ -11,4 +11,4 @@ An app with relaxing songs. Perfect to listening while studying
 
 :smile: Songs : [Bensound](https://www.bensound.com/)
 
-*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 10 of 20.*
+*This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 8 of 20.*
